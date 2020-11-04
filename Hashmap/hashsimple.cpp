@@ -17,7 +17,7 @@
 
 #include <iostream>
 #include <algorithm>
-//using namespace std;
+using namespace std;
 
 // Function to find a pair in an array with given sum using Sorting
 void findPair(int arr[], int n, int sum)
